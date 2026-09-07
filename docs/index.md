@@ -1,9 +1,17 @@
----
-template: home.html
-title: Material for MkDocs
-social:
-  cards_layout_options:
-    title: Documentation that simply works
+# 🌞 XX大学暑期支教课程共享平台
+
+欢迎来到我们的课程资料库！本平台旨在为支教地区的教师提供优质的教学资源。
+
+## 📦 全套课程资料下载
+
+[点击下载全部教案与PPT压缩包](./课程资料.zip)
+
 ---
 
-Welcome to Material for MkDocs.
+## 💬 教师交流区
+
+（论坛功能正在建设中，敬请期待）
+
+---
+
+*本站资料仅供支教公益使用，请勿用于商业用途。*
